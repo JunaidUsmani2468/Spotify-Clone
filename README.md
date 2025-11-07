@@ -4,6 +4,15 @@ This project is a high-fidelity, static clone of the Spotify desktop application
 
 This project was completed as part of a learning module under the guidance of **Shradha Khapra (Apna College)**.
 
+---
+
+### 🚀 Live Demo
+
+You can view the live deployed project here:
+**[Click here to view the live project!](https://junaidusmani2468.github.io/Spotify-Clone/)**
+
+---
+
 ## 📸 Preview
 
 ![Spotify Clone UI Preview](./assets/Spotify-Clone-SS.png)
